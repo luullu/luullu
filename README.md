@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me stu.ly@outlook.com
-> you can find me in my main account: [infinityay](https://github.com/Infinityay/Infinityay)
+- 📫 How to reach me stu.lyh@outlook.com
+# you can find me in my main account: [infinityay](https://github.com/Infinityay/Infinityay)
 
 <!---
 luullu/luullu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
